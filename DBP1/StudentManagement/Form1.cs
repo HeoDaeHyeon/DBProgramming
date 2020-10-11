@@ -27,7 +27,7 @@ namespace StudentManagement
 
             comboBoxStudent1Gender.Items.Clear();
             comboBoxStudent1Gender.Items.Add("남자");
-            comboBoxStudent1Gender.Items.Add("여자");
+            comboBoxStudent1Gender.Items.Add("사람");
 
             comboBoxStudent2Gender.Items.Clear();
             comboBoxStudent2Gender.Items.Add("남자");
